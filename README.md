@@ -1,6 +1,6 @@
 # Battle-Ready: How Detection Labs Shape Elite Cyber Defenders
 
-![Battle-Ready Cover](./images/battle-ready-detection-lab.webp)
+<img src="https://github.com/terlbrown/detection-lab/blob/main/images/battle-ready-detection-lab.webp" width=50% height=50%>
 
 In the relentless world of cybersecurity, the blue team stands as the frontline defense, tasked with protecting our organizations from ever-evolving threats. Yet amidst the daily grind of alerts, investigations, and routine operations, there’s a silent challenge that often goes unspoken: the struggle to maintain and sharpen the very skills that could mean the difference between a successful defense and a devastating breach.
 
